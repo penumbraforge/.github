@@ -1,6 +1,6 @@
 ### Hey, I'm Shadoe
 
-Information security engineer on a CIRT, and the person behind **Penumbra Forge LLC** — a one-person company building developer and security tools that run locally.
+Information security engineer on a CIRT, and the person behind **Penumbra Forge LLC** — a one-person company building developer and security tools with local-first designs and explicit network boundaries.
 
 Most of what's here is early. I'd rather say that up front than oversell it. If you try something and it breaks, an issue is genuinely useful to me.
 
